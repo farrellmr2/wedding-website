@@ -14,6 +14,10 @@
 	font-size: 55px;
 }
 
+.beach-background h1:hover {
+	color: #ff6262;
+}
+
 .beach-background header {
 	padding: 50px;
 }
@@ -40,6 +44,10 @@
 
 .main-nav a {
 	color: white;
+}
+
+.main-nav a:hover {
+	color: #ff6262;
 }
 
 .story {
