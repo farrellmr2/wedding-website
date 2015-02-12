@@ -81,6 +81,10 @@
 	padding-top: 50px;
 }
 
+#map-convas {
+	height: 400px;
+}
+
 footer {
 	padding-top: 25px;
 }
