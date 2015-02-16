@@ -1,0 +1,51 @@
+.pier {
+	background-image: url("images/eventsimage.jpg");
+	position: center ;
+	height: 250px;
+	width: 221px;
+	border-left: solid 40px white;
+	border-top: solid 40px white;
+	margin-top: -75px; 
+}
+
+.date {
+	background: white;
+	margin-top: 10px;
+	display: inline-block;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	color: #969696;
+	padding: 10px 5px 0px 5px;
+}
+
+.date h3 {
+	margin: 0px 0px 3px 0px;
+}
+
+.date p {
+	margin: 0px;
+}
+
+hr {
+	margin: 0px;
+}
+
+.event-content {
+	border-left: solid 20px white;
+	margin-top: -75px;
+	margin-bottom: 20px;
+	border-right: solid 40px white;
+	border-top: solid 40px white;
+	background-color: white; 
+	color: #969696;
+}
+
+.event-content h3 {
+	margin-top: -5px;
+		font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+	color: #969696;
+}
