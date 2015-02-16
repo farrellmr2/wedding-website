@@ -1,3 +1,7 @@
+/* The border is respnsive but the image isn't. 
+	The overlay is laying over the watermelon color and making it too dark
+	need to add exact address and not long and lat for the*/
+
 .beach-background {
 	background-image: url("images/beachpicture.jpg");
 	color: white;
@@ -51,11 +55,12 @@
 }
 
 .story {
-	margin-top: -50px;
+	margin-top: -75px;
 	border-style: solid;
 	border-width: 40px;
 	border-color: white;
 	padding: 0px;
+	background-color: white;
 }
 
 .story article p {
@@ -81,7 +86,7 @@
 	padding-top: 50px;
 }
 
-#map-convas {
+#map-canvas {
 	height: 400px;
 }
 
