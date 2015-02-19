@@ -11,3 +11,12 @@
 	color: #969696;
 	font-style: italic;
 }
+
+.hotel a:hover {
+	color: #969696;
+	text-decoration: none;
+}
+
+.hotel a {
+	color: #ff6262;
+}

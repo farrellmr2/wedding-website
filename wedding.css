@@ -52,6 +52,7 @@
 
 .main-nav a:hover {
 	color: #ff6262;
+	text-decoration: none;
 }
 
 .story {
@@ -92,7 +93,8 @@
 }
 
 #map-canvas,
-#map-canvas-2 {
+#map-canvas-2,
+#map-canvas-3 {
 	height: 400px;
 }
 
