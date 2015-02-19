@@ -34,9 +34,7 @@ hr {
 .event-content {
 	border-left: solid 20px white;
 	margin-top: -75px;
-	margin-bottom: 20px;
-	border-right: solid 40px white;
-	border-top: solid 40px white;
+	padding: 40px;
 	background-color: white; 
 	color: #969696;
 }
