@@ -4,11 +4,28 @@
 	background-color: white;
 }
 
+.wrapper2 {
+	padding: 0px 40px 40px 40px
+}
+
 a {
 	color: #ff6262;
 }
 
-.wrapper img {
-	width: 200px;
+a:hover {
+	color: #969696;
+	text-decoration: none;
+
 }
+
+.wrapper img {
+	width: 273px;
+	margin: 0px;
+}
+
+.wrapper2 img {
+	width: 273px;
+	margin: 0px;
+}
+
 
